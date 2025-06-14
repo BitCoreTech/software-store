@@ -24,5 +24,5 @@ Any questions? Ask us!
 Any bugs? Please report bugs and give suggestions in the Issues or Pull Requests in GitHub.
 Thank You!
 
-CREATED BY: Developer Ethan White.
+CREATED BY: Ethan White.
 This project is licensed under the [MIT License](https://github.com/BitCoreTech/software-store-pi/blob/main/LICENSE).
