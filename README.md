@@ -1,3 +1,5 @@
+**NOTES:** App will not function until I complete this project!
+
 # software-store-pi
 The Software Store project for Raspberry Pi devices. See more versions like the [Linux version](https://github.com/BitCoreTech/software-store-linux).
 # Welcome! Let's get started
